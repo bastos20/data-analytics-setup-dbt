@@ -32,3 +32,4 @@ __pycache__
 
 # Challengify - test challengification files
 *_challengify*
+logs/
