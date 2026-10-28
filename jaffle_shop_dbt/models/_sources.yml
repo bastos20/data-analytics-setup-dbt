@@ -1,0 +1,17 @@
+
+version: 2
+
+sources:
+  - name: jaffle_shop
+    description: "Raw data from Jaffle Shop"
+    schema: raw
+
+    tables:
+      - name: raw_customers
+        description: "Raw customer data"
+
+      - name: raw_orders
+        description: "Raw order data"
+
+      - name: raw_payments
+        description: "Raw payment data"
